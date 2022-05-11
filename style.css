@@ -11,3 +11,8 @@ body {
     width: 200px;
     margin-top: 70px;
 }
+
+table, th, td {
+    border: solid black 1px;
+    margin-bottom: 50px;
+}
